@@ -13,6 +13,11 @@
   background: transparent;
   outline: 0;
 }
+.enter-your-name,.enter-your-email,.enter-your-message{
+  border: none;
+  background: transparent;
+  outline: 0;
+}
 .icon-search-normal-1 {
   position: relative;
   width: 24px;
